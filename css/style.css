@@ -1,0 +1,25 @@
+
+
+
+
+img {
+border: 6px solid;
+border-color: red;
+    width: 400px;
+    height: 300px;
+}
+   
+p {
+font-size: 25px;
+color: orange
+}
+
+h2 {
+    font-size: 25px;
+    color: purple;
+}
+
+h3 {
+    font-size: 25px;
+    color: maroon;
+}
